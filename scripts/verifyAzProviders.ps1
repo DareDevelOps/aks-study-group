@@ -15,6 +15,6 @@ $azpCount = $azProviders.Count
 "Microsoft providers to verfy: $azpCount"
 
 foreach($azProvider in $azProviders){
-    az provider show -n $azProvider --query "[namespace, registrationState]" -o table
+    az provider show -n $azProvider --query '{Provider:namespace, ""Registration State"":registrationState}' -o table
 }
 
