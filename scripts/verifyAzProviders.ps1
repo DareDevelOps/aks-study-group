@@ -11,6 +11,7 @@ $azProviders = @('Microsoft.Storage'
 'Microsoft.ContainerService'
 'Microsoft.Kubernetes'
 'Microsoft.insights')
+
 $azpCount = $azProviders.Count
 "Microsoft providers to verfy: $azpCount"
 
