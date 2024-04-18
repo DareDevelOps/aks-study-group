@@ -3,4 +3,4 @@
 ``` az login ```
 
 ### Set the subscription you want to work in 
-``` az account set --subscription <"Subscription Name">
+``` az account set --subscription <"Subscription Name"> ```
