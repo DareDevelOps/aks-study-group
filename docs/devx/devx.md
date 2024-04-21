@@ -25,8 +25,20 @@ new-item -path ./dev -item-type directory
 cd /dev
  ```
 
- Source Code Management
+ ## Source Code Management
 
  GIT is used for source control
 
  Install Git [Git Downloads](https://git-scm.com/downloads)
+
+ ## Update or install CLI tools
+
+Why you want to install PowerShell Core versus using Windows PowerShell
+
+[What is Windows PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/what-is-windows-powershell?view=powershell-7.4)
+
+ [Install PowerShell 7 (AKA Core)](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell?view=powershell-7.4)
+
+ [Install Azure CLI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest)
+
+
