@@ -1,4 +1,4 @@
-# Prepeare your developer environment
+# Prepare your developer environment
 
 ## Install code editor
 
@@ -27,6 +27,6 @@ cd /dev
 
  Source Code Management
 
- GIT is used for source control 
+ GIT is used for source control
 
  Install Git [Git Downloads](https://git-scm.com/downloads)
