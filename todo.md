@@ -10,9 +10,8 @@ ex. - [x] Task one
 - [ ] Write modules
 - [ ] Create a Terraform example
 
-
-
 ### Git Documentation
+
 - [ ] Cover installation
 - [ ] Go over the Gloabl config file
 
