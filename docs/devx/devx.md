@@ -47,7 +47,16 @@ Why you want to install PowerShell Core versus using Windows PowerShell
 
  [Install Azure CLI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest)
 
- ### Windows Subsystem for Linux (WSL)
+### Windows Subsystem for Linux (WSL)
+
 [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/about) is a feature of Windows that allows you to run a Linux environment on your Windows machine, without the need for a separate virtual machine or dual booting. WSL is designed to provide a seamless and productive experience for developers who want to use both Windows and Linux at the same time.
 
  [Install Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/install)
+
+### Windows Terminal
+
+In most cases Windows terminal has already been enabled on your system, however herer is more information.
+
+[Overview of windows Terminal](https://learn.microsoft.com/en-us/windows/terminal/)
+
+[Install Windows Terminal](https://learn.microsoft.com/en-us/windows/terminal/install)
