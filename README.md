@@ -20,6 +20,8 @@ Click the + Create a new Fork
 
 ## Clone the repo
 
+Switch to your Github Profile
+
 Click the code button and copy the http link to the repo
 ![Clone Link](/docs/git/img/copy-git-clone-link.png)
 
