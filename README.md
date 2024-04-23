@@ -13,7 +13,7 @@ Click the Fork Icon
 
 Click the + Create a new Fork
 
-![Fork Repo](../aks-study-group/docs/git/git-fork.png)
+![Fork Repo](/docs/git/git-fork.png)
 
 ## Clone the repo
 
