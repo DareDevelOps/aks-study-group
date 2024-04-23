@@ -13,12 +13,12 @@ Click the Fork Icon
 
 Click the + Create a new Fork
 
-![Fork Repo](/docs/git/git-fork.png)
+![Fork Repo](/docs/git/img/git-fork.png)
 
 ## Clone the repo
 
 Click the code button and copy the http link to the repo
-![Clone Link](/docs/git/copy-git-clone-link.png)
+![Clone Link](/docs/git/img/copy-git-clone-link.png)
 
 ## Repo Documentation
 
