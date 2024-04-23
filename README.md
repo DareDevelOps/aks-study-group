@@ -18,7 +18,7 @@ Click the + Create a new Fork
 ## Clone the repo
 
 Click the code button and copy the http link to the repo
-![Clone Link](/aks-study-group/docs/git/copy-git-clone-link.png)
+![Clone Link](/docs/git/copy-git-clone-link.png)
 
 ## Repo Documentation
 
