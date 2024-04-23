@@ -31,9 +31,10 @@ az provider register --namespace <provider name>
 
 ### Task 2 - Define Variables and create resource group
 
-    When creating variables refer to the resource command to determine which variables are required. These will be your global variables. Typicaly optional parameters are enclosed in square brackets, required paramters are not.
+When creating variables refer to the resource command to determine which variables are required. These will be your global variables. Typicaly optional parameters are enclosed in square brackets, required paramters are not.
 
-    for the az aks create command the name and resource group parameters are the only required parameters. All other parameters are optional. The required and optional parameters are usually defined after the examples.
+for the az aks create command the name and resource group parameters are the only required parameters. All other parameters are optional. The required and optional parameters are usually defined after the examples.
+
 ![Variable doc example:](./img/var-example-1.png)
 
 Typical varibles are 
