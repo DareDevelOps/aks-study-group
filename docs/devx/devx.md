@@ -15,6 +15,8 @@ Install  [VS Code](https://code.visualstudio.com/)
 - Azure
 - YAML (Red hat)
 
+[More Info VSCode](../devx/vscode.md)
+
 ### Create a local development directory
 
 I usually create a dev directory located in the root of my drive

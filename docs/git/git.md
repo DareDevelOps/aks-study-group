@@ -16,3 +16,7 @@ Since we Use Azure Repos you're better off installing the base Git client and wo
 [Git download Page](https://git-scm.com/downloads)
 
 [Pro Git book](https://git-scm.com/book)
+
+For Github clients see:
+
+[GitHub Page](../git/github.md)

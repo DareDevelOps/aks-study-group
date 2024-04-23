@@ -1,7 +1,10 @@
 # aks-study-group
+
 Repository to home materials related to AKS study
 
 ## How to use this Repository
+
+See the [Developer Experience docs](/docs/devx/devx.md) to get your local machine setup with the basic tools and then:
 
 ## Fork the repo
 
