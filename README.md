@@ -22,8 +22,8 @@ Click the code button and copy the http link to the repo
 
 ## Repo Documentation
 
-[Developer Experience](../aks-study-group/docs/devx/devx.md)
+[Developer Experience](/docs/devx/devx.md)
 
-[Git Docs](../aks-study-group/docs/git/git.md)
+[Git Docs](/docs/git/git.md)
 
-[Kubernetes Docs](../aks-study-group/docs/k8s/k8s.md)
+[Kubernetes Docs](/docs/k8s/k8s.md)
