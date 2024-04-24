@@ -12,7 +12,7 @@ Script to create the resource group
 $resourceType = "aks"
 $resourceWorkload = ""
 $resourceENV = "d"
-$resourceRegion = "eus"
+$resourceRegion = "eus1"
 $instanceIndex = "001"
 
 

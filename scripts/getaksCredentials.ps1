@@ -2,9 +2,9 @@
 .SYNOPSIS
 Retrieve the AKS cluster credentials
 #>
-$aksname = "aks-eusd-001"
+$aksname = "aks-eus1d-001"
 
-$rgName = "rg-eusd-aks"
+$rgName = "rg-eus1d-aks"
 
 az aks get-credentials --name $aksname `
 --resource-group $rgName
