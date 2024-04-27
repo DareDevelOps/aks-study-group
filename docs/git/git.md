@@ -1,4 +1,4 @@
-# Git Version control system
+# Git Version Control System
 
 ## Why Git
 
