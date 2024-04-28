@@ -46,3 +46,18 @@ Typical varibles are
 1. Select region at
 2. Define global variables
 
+## Excercise - Create a Pod Declaratively
+
+### Task 1 Create a pod decalratively
+
+1. Change to the module1/manfiests directory
+2. Create a simple-pod.yaml file
+    use the [POD API](https://kubernetes.io/docs/reference/kubernetes-api/workload-resources/pod-v1/)
+
+```YAML
+apiVersion:  v1
+kind:
+metadata:
+spec: 
+
+```
