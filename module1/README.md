@@ -3,4 +3,3 @@ Update provider version to static version currently set to auto update. Change t
 resource group and storage account are set
 
 
-~~this a strikethrough~~
