@@ -17,3 +17,7 @@
 [MiniKube](https://minikube.sigs.k8s.io/docs/)
 
 ### OpenShift Local
+
+Requires a Red Hat Login to Download software
+
+[OpenShift Local v2.3.5](https://docs.redhat.com/en/documentation/red_hat_openshift_local/2.35)
