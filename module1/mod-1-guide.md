@@ -29,26 +29,24 @@ az provider register --namespace <provider name>
 
 7. Watch the progress of the provider registration or run the verification script included in the repository scripts directory
 
-### Task 2 - Define Variables and create resource group
+### Task 2 - Define Variables and Create Resource Group
 
-When creating variables refer to the resource command to determine which variables are required. These will be your global variables. Typicaly optional parameters are enclosed in square brackets, required paramters are not.
+When creating variables refer to the resource command to determine which variables are required. These will be your global variables. Typicaly optional parameters are enclosed in square brackets, required parameters are not.
 
 for the az aks create command the name and resource group parameters are the only required parameters. All other parameters are optional. The required and optional parameters are usually defined after the examples.
 
 ![Variable doc example:](./img/var-example-1.png)
 
-Typical varibles are 
+Typical variables are
 
 - Resource Region common variable is $location. think about where your potential users are located or what the overall cloud architecture is.
-
-- 
 
 1. Select region at
 2. Define global variables
 
 ## Excercise - Create a Pod Declaratively
 
-### Task 1 Create a pod decalratively
+### Task 1 Create a pod declaratively
 
 1. Change to the module1/manfiests directory
 2. Create a simple-pod.yaml file

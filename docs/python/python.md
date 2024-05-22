@@ -7,3 +7,7 @@
 ## VSCode Extensions
 
 [VSCode Python Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+
+## Python docs
+
+[Python Docs](http://docs.python.org/3/)
