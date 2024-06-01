@@ -37,5 +37,3 @@ git push
 
 7. Git push success.
 ![git push success image](../git/img/gitBasics-gitPushSuccess.png)
-
-
