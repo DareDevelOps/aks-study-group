@@ -20,6 +20,7 @@ git push
 ### Excercise
 
 1. Create a folder under the docs folder in this repo with your name.
+
 2. add a readme.md file to the folder and add some text to it and maybe a  level 1 heading.
 
 3. run `git status` command you should see
