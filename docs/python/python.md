@@ -27,3 +27,7 @@ Follow the installation instructions on the tool homepage.
 ## Python Application Virtual environment
 
 [PIPX](https://pipx.pypa.io/stable/)
+
+## Python Testing
+
+[PyTest](https://docs.pytest.org/en/8.2.x/)

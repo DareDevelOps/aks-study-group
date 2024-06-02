@@ -62,3 +62,7 @@ In most cases Windows terminal has already been enabled on your system, however 
 [Overview of windows Terminal](https://learn.microsoft.com/en-us/windows/terminal/)
 
 [Install Windows Terminal](https://learn.microsoft.com/en-us/windows/terminal/install)
+
+## Code and Data notebooks
+
+[Jupyter Notebook](https://jupyter.org/)

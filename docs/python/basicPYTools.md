@@ -1,5 +1,11 @@
 # Using the built in tools
 
+The basic tools for creating a Python project are built-in
+
+- venv creae a virtual environment
+
+- pip install and manage packages
+
 ## Create project directory
 
 ```powershell
@@ -9,6 +15,7 @@ cd ./newProj
  ```
 
 ## Virtual Environment  venv
+
 [venv](https://docs.python.org/3/library/venv.html#module-venv) command is built in to the Python program for creating a virtual environment to develop in.
 
 ``` powershell
@@ -39,3 +46,9 @@ d----            6/1/2024  6:55 PM                Scripts
 [Python Packaging Guide](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/#create-and-use-virtual-environments)
 
 ## Pip
+
+### More information on Pip
+
+[Pip](https://pip.pypa.io/en/stable/)
+
+[Pip Python Tutorial](https://docs.python.org/3/tutorial/venv.html#managing-packages-with-pip)
