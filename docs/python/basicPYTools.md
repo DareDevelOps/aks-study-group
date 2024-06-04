@@ -20,9 +20,10 @@ cd ./newProj
 
 ``` powershell
 py -m venv .
-
-# running the command this way names the virtual environment after the containing folder. when you run the activate script it will label the prompt with the project name.
 ```
+
+running the command this way names the virtual environment after the containing folder. when you run the activate script it will label the prompt with the project name.
+
 
 Running venv creates a directory structure. You typically want to disclude this directory from from your Git Remote repository.
 
