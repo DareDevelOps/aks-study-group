@@ -37,3 +37,7 @@ git push
 
 7. Git push success.
 ![git push success image](../git/img/gitBasics-gitPushSuccess.png)
+
+## Pull Request
+
+Once you have commited and pushed all your changes to your upstream fork, you will want to request that your changes be included in the upstream shared repo.
