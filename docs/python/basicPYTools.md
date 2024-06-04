@@ -26,6 +26,19 @@ running the command this way names the virtual environment after the containing 
 
 Running venv creates a directory structure. You typically want to disclude this directory from from your Git Remote repository.
 
+```powershell
+PS C:\dev\aks-study-group\docs\python> ls C:\dev\projects\newProj\
+
+    Directory: C:\dev\projects\newProj
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----            6/1/2024  6:55 PM                Include
+d----            6/1/2024  6:55 PM                Lib
+d----            6/1/2024  6:55 PM                Scripts
+-a---            6/1/2024  6:55 PM            182 pyvenv.cfg
+```
+
 If you have multiple versions of Python installed on your system and need to develop with a specific version you can run the command in the following manner:
 
 ```powershell
@@ -44,18 +57,7 @@ PS C:\dev\python\pyapp> py --list
 
 The version with * is the current default.
 
-```powershell
-PS C:\dev\aks-study-group\docs\python> ls C:\dev\projects\newProj\
 
-    Directory: C:\dev\projects\newProj
-
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
-d----            6/1/2024  6:55 PM                Include
-d----            6/1/2024  6:55 PM                Lib
-d----            6/1/2024  6:55 PM                Scripts
--a---            6/1/2024  6:55 PM            182 pyvenv.cfg
-```
 
 ### More information on venv
 
