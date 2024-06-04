@@ -26,6 +26,24 @@ running the command this way names the virtual environment after the containing 
 
 Running venv creates a directory structure. You typically want to disclude this directory from from your Git Remote repository.
 
+If you have multiple versions of Python installed on your system and need to develop with a specific version you can run the command in the following manner:
+
+```powershell
+py -3.xx -m venv .
+```
+
+You must have the version you wish to run installed on your system. To check installed versions run
+
+```powershell
+
+PS C:\dev\python\pyapp> py --list
+ -V:3.12 *        Python 3.12 (64-bit)
+ -V:3.11          Python 3.11 (64-bit)
+ -V:3.10          Python 3.10 (64-bit)
+```
+
+The version with * is the current default.
+
 ```powershell
 PS C:\dev\aks-study-group\docs\python> ls C:\dev\projects\newProj\
 
