@@ -8,9 +8,11 @@ Follow the installation instructions on the tool homepage.
 
 [Install Python Windows](https://www.python.org/ftp/python/3.12.3/python-3.12.3-amd64.exe)
 
-## VSCode Extensions
+## VS Code Python
 
-[VSCode Python Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+[VS Code Python Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+
+[VS Code Python Docs](https://code.visualstudio.com/docs/python/python-quick-start)
 
 ## Python docs
 
