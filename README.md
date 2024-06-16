@@ -33,4 +33,8 @@ Click the code button and copy the http link to the repo
 
 [Kubernetes Docs](/docs/k8s/k8s.md)
 
+[Python Docs](/docs/python/basicPYTools.md)
+
+[Terraform Docs](/docs/tf/tf.md)
+
 
