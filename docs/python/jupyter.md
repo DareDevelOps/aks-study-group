@@ -4,4 +4,6 @@
 
 [Jupter Docs](https://jupyter.org/)
 
+[Jupyter on VSCode](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
+
 

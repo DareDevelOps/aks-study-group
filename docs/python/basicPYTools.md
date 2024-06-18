@@ -2,7 +2,7 @@
 
 The basic tools for creating a Python project are built-in
 
-- venv creae a virtual environment
+- venv create a virtual environment
 
 - pip install and manage packages
 
