@@ -1,5 +1,9 @@
 # Using Advanced Python toolsets
 
+## Python Packaging guide
+
+[Python Packaging Guide](https://packaging.python.org/en/latest/)
+
 ## More Information on Toolsets
 
 [Python Packaging User Guide](https://packaging.python.org/en/latest/overview/)
