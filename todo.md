@@ -13,6 +13,7 @@ ex. - [x] Task one
 ### Git Documentation
 
 - [ ] Cover installation
-- [ ] Go over the Gloabl config file
+- [ ] Go over the Global config file
+- [ ] Go over .gitignore
 
 ### VS Code Documentation
