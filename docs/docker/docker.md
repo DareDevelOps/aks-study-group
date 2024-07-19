@@ -14,11 +14,11 @@
 
 [Docker Guides](https://docs.docker.com/guides/)
 
-Contains guides to help you get started and learn how Docker can optimize your developmentworkflows.
+Contains guides to help you get started and learn how Docker can optimize your development workflows.
 
 [Docker Manuals](https://docs.docker.com/manuals/)
 
-How to install, setup, sonfigure and use Docker Products.
+How to install, setup, configure and use Docker products.
 
 [Docker Reference](https://docs.docker.com/reference/)
 
