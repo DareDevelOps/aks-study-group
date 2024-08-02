@@ -31,7 +31,7 @@ C:\<dirname>\Scripts\activate
 
 ```
 
-### Create a virtual environment based on an alternent Python Version
+### Create a virtual environment based on an different Python Version
 
 Alot of times the project you are working on may not use the latest version or a version you have installed. If the version is not installed install it and then run the venv command using the following commnad set.
 
