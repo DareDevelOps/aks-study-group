@@ -22,3 +22,7 @@ uvx runs python tools without the need to install them
 
 [pipx](https://pipx.pypa.io/stable/)
 pipx is a tool to install end-user applications Written in Python. It is similar to Javascripts [npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b), or Linux [Debian - apt](https://wiki.debian.org/Apt) or [RHEL - dnf](https://en.wikipedia.org/wiki/DNF_(software))
+
+### Package Publishing
+[Twine](https://twine.readthedocs.io/en/stable/)
+Twine is a tool for publishing Python packages to a repository like PyPY
